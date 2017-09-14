@@ -11,6 +11,7 @@ We have named our project as geoapi. Now change directory into the project by ru
 ```cd geoapi```
 
 **2.Create a django app**
+
 Now we are going to create an app inside the geoapi project. This contains modls.py files as well as many other .py files.
 Run this:
 ```django-admin startapp api```
